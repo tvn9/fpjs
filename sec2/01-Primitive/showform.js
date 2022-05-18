@@ -2,8 +2,8 @@
 
 let fname = "Marko";    // name is variable, "Marko" is string
 let age = 39;          // age is variable, 39 is number
-let showForm  = true;  // Boolean
-let PI = 3.1314;       // Float
+let showForm  = true;  // boolean true or false value
+let PI = 3.1314;       // real number 
 
 if (showForm) alert("show form is now on");
 
